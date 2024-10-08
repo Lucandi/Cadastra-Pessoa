@@ -1,4 +1,4 @@
-from Cadastra Pessoa.docs import *
+from CadastraPessoa.docs import *
 
 def ver_pessoas_cadastradas(opc):
     print('-' * 40)

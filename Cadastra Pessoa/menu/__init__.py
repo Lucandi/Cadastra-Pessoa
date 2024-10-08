@@ -1,6 +1,6 @@
-from Cadastra Pessoa.pessoas_cadastradas import ver_pessoas_cadastradas
-from Cadastra Pessoa.cadastrar_pessoa import cadastrar
-from Cadastra Pessoa.docs import *
+from CadastraPessoa.pessoas_cadastradas import ver_pessoas_cadastradas
+from CadastraPessoa.cadastrar_pessoa import cadastrar
+from CadastraPessoa.docs import *
 def menu():
     print('-' * 40)
     print('             MENU PRINCIPAL')

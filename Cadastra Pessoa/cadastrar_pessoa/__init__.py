@@ -1,4 +1,4 @@
-from Cadastra Pessoa.docs import *
+from CadastraPessoa.docs import *
 
 def cadastrar(opc, nome):
     print('-' * 40)

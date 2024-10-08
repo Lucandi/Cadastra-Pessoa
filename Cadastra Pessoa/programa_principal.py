@@ -1,9 +1,9 @@
-from Cadastra Pessoa.menu import menu
-from Cadastra Pessoa.menu import leia_Inteiro
+from CadastraPessoa.menu import menu
+from CadastraPessoa.menu import leia_Inteiro
 from time import sleep
-from Cadastra Pessoa.docs import *
-from Cadastra Pessoa.pessoas_cadastradas import ver_pessoas_cadastradas
-from Cadastra Pessoa.cadastrar_pessoa import cadastrar
+from CadastraPessoa.docs import *
+from CadastraPessoa.pessoas_cadastradas import ver_pessoas_cadastradas
+from CadastraPessoa.cadastrar_pessoa import cadastrar
 
 arq = 'pessoas.txt'
 
