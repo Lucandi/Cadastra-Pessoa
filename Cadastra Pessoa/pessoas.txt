@@ -1,0 +1,4 @@
+Lucas; 35
+José; 89
+Maria; 51
+Pedro; 45
